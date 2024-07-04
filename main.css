@@ -16,13 +16,20 @@ select{
     padding: 3px;
     border-radius: 5px;
 }
+option:hover{
+    background-color: rgb(49, 49, 49);
+    color: white;
+}
 button{
-    
+    border: 1px solid grey;
     font-size: large;
     padding: 3px;
     border-radius: 5px;
 }
-button
+button:hover{
+    background-color: rgb(49, 49, 49);
+    color: white;
+}
 p{
     margin-top: 100px;
 }
