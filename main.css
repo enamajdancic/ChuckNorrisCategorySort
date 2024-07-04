@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Baskervville+SC&display=swap');
+
+body{
+    font-family:Baskervville+SC, sans-serif;
+    font-weight: 2;
+    text-align: center;
+    margin-top: 100px;
+}
+label{
+    
+    font-size: 23px;
+    margin: 10px;
+}
+select{
+    font-size: large;
+    padding: 3px;
+    border-radius: 5px;
+}
+button{
+    
+    font-size: large;
+    padding: 3px;
+    border-radius: 5px;
+}
+button
+p{
+    margin-top: 100px;
+}
